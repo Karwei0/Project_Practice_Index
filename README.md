@@ -8,3 +8,5 @@ build index to all experiment repositories
 - [实验二_二](https://github.com/Karwei0/Project_Practice_exp2_2.git)
 - [实验三](https://github.com/Karwei0/Project_Practice_exp3.git)
 - [实验四](https://github.com/Karwei0/Project_Practice_exp4.git)
+- [实验五_一](https://github.com/Karwei0/Project_Practice_exp5_1.git)
+- [实验五_二](https://github.com/Karwei0/Project_Practice_exp5_2.git)
